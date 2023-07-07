@@ -29,7 +29,7 @@ cd app-age-golang
 3. Execute o projeto usando o comando `go run`:
 
 ```shell
-go run main.go
+go run src/main.go
 ```
 
 Isso irá compilar e executar o código, e você verá a janela da calculadora de idade.
